@@ -63,7 +63,7 @@ StreamFromValue.obj(testfile)
 
 ### Class: StreamFromValue
 
-StreamFromValues are [Readable](http://nodejs.org/api/stream.html#stream_class_stream_readable_1) streams.
+_StreamFromValues_ are [Readable](http://nodejs.org/api/stream.html#stream_class_stream_readable_1) streams.
 
 #### new StreamFromValue(value, [options])
 
